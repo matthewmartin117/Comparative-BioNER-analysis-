@@ -4,6 +4,9 @@
 
 This project implements and compares three different Named Entity Recognition (NER) models for the BC5CDR dataset: scispaCy's `en_ner_bc5cdr_md`, a custom BiLSTM-CRF model, and a fine-tuned BioBERT model.
 
+## Presentation and Overview
+[Video Overview](https://youtu.be/A2W1aQ6QJzw)
+
   
 
 ## How to Run the Code
