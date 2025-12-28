@@ -18,7 +18,7 @@ Using the BC5CDR (BioCreative V Chemical Disease Relation) dataset, this project
 
 [View the Code on Google Colab](https://colab.research.google.com/drive/1KV-5erbzHA-rYcfj_vBajgtHXDcokvKE?usp=sharing)
 
-[Read the Complete Study] ()
+[Read the Complete Study](./BioNERStudy.pdf)
 
 ## Key Findings
 
