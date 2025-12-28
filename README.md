@@ -4,9 +4,9 @@
 
 **Author:** Matthew Martin
 
-**Course:** [CSPB 3832]
+**Course:** CSPB 3832
 
-**Date:** [12/8/2025]
+**Date:** 12/8/2025
 
 ## Project Overview
 
@@ -15,7 +15,9 @@ This project addresses the challenge of automated information extraction from th
 Using the BC5CDR (BioCreative V Chemical Disease Relation) dataset, this project investigates a key research question: *How much do modern Transformer architectures improve upon traditional CNN and RNN baselines in handling complex, multi-word biomedical nomenclature?*
 
 [Watch the Video Presentation](https://youtu.be/A2W1aQ6QJzw)
+
 [View the Code on Google Colab](https://colab.research.google.com/drive/1KV-5erbzHA-rYcfj_vBajgtHXDcokvKE?usp=sharing)
+
 [Read the Complete Study] ()
 
 ## Key Findings
